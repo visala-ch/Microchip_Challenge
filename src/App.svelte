@@ -1,3 +1,14 @@
+<!-- 
+Author:  Visalakshmi Chemudupati  
+Date: 12 September,2023
+Credits:
+1. https://learn.svelte.dev/tutorial/dom-events
+2. https://learn.svelte.dev/tutorial/motion
+3. https://codesandbox.io/s/zy009?file=/Draggable.svelte
+4. Online Documentation on Svelte, CSS, and HTML
+-->
+
+
 <script>
 	let xPos = 0;
 	let yPos = 0;
